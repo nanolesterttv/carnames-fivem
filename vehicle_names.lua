@@ -3,6 +3,6 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-	AddTextEntry("game name most of the time spawn code if not in vehicles.meta", "the name u want")
+	AddTextEntry("Spawncode", "Put the name here want")
 	
 end)
