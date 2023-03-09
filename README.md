@@ -20,4 +20,4 @@ How this script works is it updates the string in the vehicles.meta file to chan
 
 # Help
 
-if u need help with it add me NanolesterTTV#2834 on discord 
+Join the [discord](https://discord.gg/3rTX25FgRf)
