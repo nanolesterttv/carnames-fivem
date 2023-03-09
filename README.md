@@ -17,4 +17,7 @@ How this script works is it updates the string in the vehicles.meta file to chan
 
 
 **NOTE IF YOU REMOVE THE SCRIPT THE NAME DOESNT STAY** 
+
+# Help
+
 if u need help with it add me NanolesterTTV#2834 on discord 
