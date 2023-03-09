@@ -4,7 +4,7 @@ Put the script in your resources folder.
 
 Start the script in the server.cfg 
 
-**ensure carnames-fivem-main**
+**ensure carnames-fivem**
 
 Go inside **vehicle_names.lua** 
 
